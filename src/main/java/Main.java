@@ -2,7 +2,6 @@ public class Main {
     //   public int ANIMALCOUNT = 0;
 
     public static void main(String[] args) {
-
         Cat cat1 = new Cat();
         Dog dog1 = new Dog();
         cat1.run(10);

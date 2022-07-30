@@ -10,4 +10,5 @@ public class Animal {
     public void swim(int length) {
         System.out.println("Животное проплыло " + length + " метров");
     }
+
 }
